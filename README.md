@@ -49,8 +49,9 @@ I am an undergraduate student specializing in Artificial Intelligence and Machin
 
 ## Contact
 
+- Email: lavanyasatha66@gmail.com
 - GitHub: https://github.com/lavanya-sathasivam  
-- LinkedIn: https://www.linkedin.com/in/lavanyasatha 
+- LinkedIn: https://www.linkedin.com/in/lavanyasatha
 
 ---
 
